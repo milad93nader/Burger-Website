@@ -2,7 +2,7 @@ import React from 'react';
 import about from '../images/about us.png';
 import Image from 'next/image';
 
-const aboutus = () => {
+const About = () => {
 return(
     <>
 
@@ -25,4 +25,4 @@ return(
     </>
 );
 };
-export default aboutus;
+export default About;
